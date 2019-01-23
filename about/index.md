@@ -10,10 +10,10 @@ comments: false
     현재 저는 <strong> Computer Vision, Deep Learning, Machine Learning</strong> 분야에 관심이 많습니다.</center>
     
 ## Education
-* Inha University   <strong>Incheon,South Korea</strong>
-  Junior Year of College of Computer Science
+* Inha University   <strong>Incheon,South Korea</strong> <br>
+  Junior Year of College of Computer Science<br>
   Bachelor of Computer Science <strong>Expected(02.2020)</strong>
-* Intelligence Technology Research Laboratory, Inha Univ
+* Intelligence Technology Research Laboratory, Inha Univ <br>
   Research Intern(Advisor:prof.Phill Kyu Rhee)   July 2018 - present  
 
 ## Skills & Activities
