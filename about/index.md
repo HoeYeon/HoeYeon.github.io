@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Hello I'm HoeYeon. </center>
+<center>'Hello I'm HoeYeon.\n' </center>
 <center>I'm interested in Computer Vision, Deep Learning, Machine Learning</center>
 
 ## Features
