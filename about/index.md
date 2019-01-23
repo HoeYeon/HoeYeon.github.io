@@ -7,7 +7,14 @@ comments: false
 ---
     
 <center>안녕하세요. 인하대학교에 재학중인 손회연입니다.  <br>
-    현재 저는 Computer Vision, Deep Learning, Machine Learning 분야에 관심이 많습니다.</center>
+    현재 저는 <strong> Computer Vision, Deep Learning, Machine Learning</strong> 분야에 관심이 많습니다.</center>
+    
+## Education
+* Inha University   <strong>Incheon,South Korea</strong>
+  Junior Year of College of Computer Science
+  Bachelor of Computer Science <strong>Expected(02.2020)</strong>
+* Intelligence Technology Research Laboratory, Inha Univ
+  Research Intern(Advisor:prof.Phill Kyu Rhee)   July 2018 - present  
 
 ## Skills & Activities
 * <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
