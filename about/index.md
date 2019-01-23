@@ -23,12 +23,10 @@ comments: false
 * <strong> Activities </strong> : [삼성 인공지능 스터디](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html),백준 알고리즘, 연합 스쿼시 동아리 바운스
 
 ## Awards
-*  [1st Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=97&mod=document)    October 2018 
-*  [3rd Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=93&mod=document)    October 2017 
+*  [1st Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=97&mod=document)           <strong> October 2018 </strong>
+*  [3rd Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=93&mod=document)           <strong> October 2017 </strong>
 
 
-## Getting Started
+## Projects
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Feel free to take a look my projects [here](https://hoeyeon.github.io/projects/)
