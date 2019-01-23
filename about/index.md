@@ -13,7 +13,7 @@ comments: false
 * <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
 * <strong> Language </strong> : Native(Korean), Fluent(English)
 * <strong> Technologies & Environments </strong> : Linux, Window, Visual Studio, Atom
-* <strong> Activities </strong> : 백준 알고리즘, 연합 스쿼시 동아리 바운스, [삼성 인공지능 스터디](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html)
+* <strong> Activities </strong> : [삼성 인공지능 스터디](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html),백준 알고리즘, 연합 스쿼시 동아리 바운스
 
 ## Preview
 
