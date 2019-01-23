@@ -9,17 +9,11 @@ comments: false
 <center>Hello I'm HoeYeon. <br>
     I'm interested in Computer Vision, Deep Learning, Machine Learning</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Skills & Activities
+* <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
+* <strong> Language </strong> : Native(Korean), Fluent(English)
+* <strong> Technologies & Environments </strong> : Linux, Window, Visual Studio, Atom
+* <strong> Activities </strong> : Solving algorithm in BaekJoon, Squash Club, Swimming Club
 
 ## Preview
 
