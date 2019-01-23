@@ -20,7 +20,7 @@ comments: false
 * <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
 * <strong> Language </strong> : Native(Korean), Fluent(English)
 * <strong> Technologies & Environments </strong> : Linux, Window, Visual Studio, Atom
-* <strong> Activities </strong> : [삼성 인공지능 스터디](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html), 백준 알고리즘, 연합 스쿼시 동아리 바운스
+* <strong> Activities </strong> : [Samsung AI Study](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html), BaekJoon Algorithm , Squash club-Bounce
 
 ## Awards
 *  [1st Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=97&mod=document)           <strong> October 2018 </strong>
