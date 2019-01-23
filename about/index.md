@@ -29,4 +29,4 @@ comments: false
 
 ## Projects
 
-Feel free to take a look my projects [here](https://hoeyeon.github.io/projects/)
+* <strong> Feel free to take a look my projects </strong> [here](https://hoeyeon.github.io/projects/)
