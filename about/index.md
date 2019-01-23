@@ -6,14 +6,14 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Hello I'm HoeYeon. <br>
-    I'm interested in Computer Vision, Deep Learning, Machine Learning</center>
+<center>안녕하세요. 인하대학교에 재학중인 손회연입니다.  <br>
+    현재 저는 Computer Vision, Deep Learning, Machine Learning 분야에 관심이 많습니다.</center>
 
 ## Skills & Activities
 * <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
 * <strong> Language </strong> : Native(Korean), Fluent(English)
 * <strong> Technologies & Environments </strong> : Linux, Window, Visual Studio, Atom
-* <strong> Activities </strong> : Solving algorithm in BaekJoon, Squash Club, Swimming Club
+* <strong> Activities </strong> : 백준 알고리즘, 연합 스쿼시 동아리 바운스, 교내 수영 동아리
 
 ## Preview
 
