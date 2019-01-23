@@ -6,7 +6,8 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Hello I'm HoeYeon. I'm interested in Computer Vision, Deep Learning, Machine Learning</center>
+<center>Hello I'm HoeYeon. 
+    I'm interested in Computer Vision, Deep Learning, Machine Learning</center>
 
 ## Features
 * Minimal, you can focus on your content
