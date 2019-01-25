@@ -37,10 +37,10 @@ disqus_shortname:   'hoeyeon'
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              shy9546@naver.com
 #twitter:            username
 #facebook:           username
-#github-url:         username
+github-url:         https://github.com/HoeYeon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
