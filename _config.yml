@@ -1,7 +1,7 @@
 # Site
 title:              'HoeYeon Son'
-bio:                'HoeYeon, Inovation Begins Here!!'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Be Humble, Keep Practicing'
+description:        'Be Humble, Keep Practicing'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   hoeyeon
+disqus_shortname:   'hoeyeon'
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,10 +37,10 @@ disqus_shortname:   hoeyeon
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+#email:              shy9546@naver.com
 #twitter:            username
 #facebook:           username
-#github-url:         username
+github-url:         HoeYeon
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -53,7 +53,7 @@ disqus_shortname:   hoeyeon
 #steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   UC1bmDkhYsAS65qfL7dsK60Q
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

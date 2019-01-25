@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About HoeYeon
-tags: [about, Jekyll, theme, moon]
+tags: [about, HoeYeon]
 date: 2016-03-21
 comments: false
 ---
