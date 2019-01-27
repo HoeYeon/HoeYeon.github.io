@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ORB SLAM map save"
-date:   2018-03-01
+date:   2018-07-01
 excerpt: "import map saving & get user trajectory"
 project: true
 tag:
@@ -13,10 +13,15 @@ comments: false
 ## 개요
 * Indoor Navigation을 만들기 위한 첫번째 관문으로, 기존에 존재하는 ORB SLAM2를 수정하여 map 저장기능을 추가하고 생성된 맵을 바탕으로 사용자의 실시간 좌표값을 구하도록 했다.(++ 첫 연구실 프로젝트이다. ++)
 
+## 개발배경
+* 저번에 만들었던 PlaceRecognition를 보완하기 위해서 엘리베이터가 보이지 않을 때 사용자의 위치 정보를 표시하고자 하였다.
+* 기존에 딥러닝 방식을 쓰기에는 연산량이 너무 많아지기 때문에 계속 사용하기에는 어려움이 있었다.
+* 그러던 중 교수님께서 SLAM이라는 기술이 있다는 것을 알려주셨고 그 중에서 보편적으로 많이 쓰이는 ORB SLAM2를 사용하기로 했다.
+
 ## 진행과정
 
 ### `ORB SLAM2 원본 설치`
-* [이 곳](https://github.com/raulmur/ORB_SLAM2) 에서 원본을 다운로드 받았고 기타 필요한 프로그램들은 물려받은 가이드파일을 통해 설치를 했다.
+* [이 곳](https://github.com/raulmur/ORB_SLAM2) 에서 원본을 다운로드 받았고 기타 필요한 프로그램들은 물려받은 가이드파일을 통해 설치를 했다. (정말 딱 설치 가이드라인만 있었다)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c2ii8FVVoC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <strong> <center> ORB SLAM 원본으로 제공되는 데이터를 사용했다. </center> </strong>
