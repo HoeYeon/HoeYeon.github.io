@@ -40,7 +40,7 @@ comments: false
 
 ### `결과`
 ![alexnet](https://user-images.githubusercontent.com/35250791/51796898-bfef6f00-223d-11e9-8672-340a7b8a1f2e.JPG)
-<center> <strong> 정확도는 약 90% 정도였다. </strong> </center>
+<center> <strong> 정확도는 약 90% 정도였다. </strong> </center> <br>
 * 실제 다른 층의 엘리베이터로 실험을 하면??
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xSXOvojoRdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * 주변 환경이 조금 달라질 때는 오류를 보였지만 학습시킨 부분에 대해서는 만족스러운 결과를 보여줬다.
