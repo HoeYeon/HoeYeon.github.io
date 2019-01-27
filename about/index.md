@@ -22,6 +22,9 @@ comments: false
 * <strong> Technologies & Environments </strong> : Linux, Window, Visual Studio, Atom
 * <strong> Activities </strong> : [Samsung AI Study](https://www.samsungsds.com/global/ko/news/story/1202740_2919.html), BaekJoon Algorithm , Squash club_Bounce
 
+## Research
+* <strong> Monocular SLAM and Obstacle Removal for Visual Navigation </strong> - KSII <br> Han Shi bo, Kim Yeong Hyeon, Shin Dong Kyun, <b>Son Hoe Yeon</b>, Rhee Phill Kyu
+
 ## Awards
 *  [1st Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=97&mod=document)           <strong> October 2018 </strong>
 *  [3rd Place in SSE-ITRC ICT Design Idea Contest](http://sse-itrc.com/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=93&mod=document)           <strong> October 2017 </strong>
