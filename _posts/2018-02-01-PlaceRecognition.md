@@ -13,7 +13,7 @@ comments: false
 ---
 
 ## 개요
-* 엘리베이터가 사용자를 기준으로 왼쪽, 오른쪽, 가운데 중 어디에 있는지 알려주느 프로그램이다. image classification을 사용했다.
+* 엘리베이터가 사용자를 기준으로 왼쪽, 오른쪽, 가운데 중 어디에 있는지 Classification을 사용하여 알려주는 프로그램이다.
 
 ## 진행과정
 
@@ -43,7 +43,7 @@ comments: false
 ![alexnet](https://user-images.githubusercontent.com/35250791/51796898-bfef6f00-223d-11e9-8672-340a7b8a1f2e.JPG)
 * 정확도는 약 90퍼 정도로 보인다.
 * 실제 다른 층의 엘리베이터로 실험을 하면??
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=xSXOvojoRdg" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xSXOvojoRdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * 주변 환경이 조금 달라질때는 오류를 보이지만 학습시킨 부분에 대해서는 만족스러운 결과를 보여준다.
 
 ### `느낀점`
