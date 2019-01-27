@@ -34,9 +34,8 @@ comments: false
 
 ### `학습 `
 * train set 과 validation set을 각각 하나의 라벨당 1300개, 200개씩 설정했다.
-* 학습에는 Alexnet을 사용했다. 기존의 Alexnet은 image size가 224x224지만 연산량 초과로 사양에 맞게 100 x 100으로 수정했다.
-++ (https://github.com/NVIDIA/DIGITS/issues/291 ++
-++ 해당 사이트를 참고했다.) ++
+* 학습에는 Alexnet을 사용했다. 기존의 Alexnet은 image size가 224x224지만 연산량 초과로 사양에 맞게 <br>100 x 100으로 수정했다.
+++ [이곳](https://github.com/NVIDIA/DIGITS/issues/291)을 참고했다.) ++
 * 노트북 GPU가 지원이 안돼서 CPU로 학습을 시키려니 시간이 오래걸린다. 어쩔 수 없이 자기전에 학습시켜놓고 잠들었다.
 
 ### `결과`
