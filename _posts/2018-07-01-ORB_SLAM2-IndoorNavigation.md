@@ -2,7 +2,7 @@
 layout: post
 title:  "ORB SLAM in Indoor navigation"
 date:   2018-07-01
-excerpt: "import map saving & get user trajectory"
+excerpt: "Develop indoor navigation"
 project: true
 tag:
 - ORB SLAM
