@@ -18,18 +18,25 @@ comments: false
 ## 진행과정
 
 ### `데이터셋 준비`
-* 학교엘리베이터로 실험을 하고 학습도 하기 위해서 직접 동영상을 찍어온 뒤 프레임 단위로 나눠서 이미지로 만들었다.
-
 <figure class="third">
 	<img src="https://user-images.githubusercontent.com/35250791/51796885-8e76a380-223d-11e9-8fb6-a1fd07f1ccdb.jpg">
 	<img src="https://user-images.githubusercontent.com/35250791/51796886-91719400-223d-11e9-8370-4a3368c92d6f.jpg">
 	<img src="https://user-images.githubusercontent.com/35250791/51796887-95051b00-223d-11e9-94bf-f6ba79f87ece.jpg">
-	<figcaption>각각 train_set은 1300개, validation_set은 200개씩이다.</figcaption>
+	<!--<figcaption>각각 train_set은 1300개, validation_set은 200개씩이다.</figcaption>-->
 </figure>
+* 학교엘리베이터로 실험을 하고 학습도 하기 위해서 직접 동영상을 찍어온 뒤 프레임 단위로 나눠서 이미지로 만들었다.
+
+![dataset](https://user-images.githubusercontent.com/35250791/51797112-596c5000-2241-11e9-8e5f-f7fc63fa455e.jpg)
+* 각각 train_set은 1300개, validation_set은 200개씩 준비했다.
+
+![shuffle](https://user-images.githubusercontent.com/35250791/51797126-73a62e00-2241-11e9-8445-8150372597f2.JPG)
+* left, middle, right 순서대로 들어간 데이터를 셔플해줬다.
 
 ### `학습 `
 * train set 과 validation set을 각각 하나의 라벨당 1300개, 200개씩 설정했다.
-* 학습에는 Alexnet을 사용했다. 기존의 Alexnet은 image size가 224x224지만 연산량 초과로 사양에 맞게100 x 100으로 수정했다.
+* 학습에는 Alexnet을 사용했다. 기존의 Alexnet은 image size가 224x224지만 연산량 초과로 사양에 맞게 100 x 100으로 수정했다.
+++ (https://github.com/NVIDIA/DIGITS/issues/291 ++
+++ 해당 사이트를 참고했다.) ++
 * 노트북 GPU가 지원이 안돼서 CPU로 학습을 시키려니 시간이 오래걸린다. 어쩔 수 없이 자기전에 학습시켜놓고 잠들었다.
 
 ### `결과`
