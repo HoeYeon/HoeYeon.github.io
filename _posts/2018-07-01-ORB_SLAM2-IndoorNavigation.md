@@ -52,7 +52,7 @@ comments: false
 * 만든 SLAM을 더 좋게 발전시켜서 안정적인 Indoor Navigation을 만들어보자 ***(to be continued..)***
 
 ---
-`추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
+# `추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
 ---
 # ORB SLAM python binding 
 
@@ -63,7 +63,7 @@ comments: false
 * 그 전에 만들었던 Place Recognition과 연구실에서 개발중인 프로그램은 python으로 만든데 반해 ORB SLAM은 C++로 되어있어 같이 실행시키는게 불가능했다. 그러던 중 구글링을 통해 ORB SLAM의 python 버전이 깃허브에 있는걸 발견하고 한번 도전해보았다.
 
 
-### `ORB SLAM2 PythonBinding`
+## `ORB SLAM2 PythonBinding`
 * [이 곳](https://github.com/jskinn/ORB_SLAM2-PythonBindings)과 [이 곳](https://github.com/torrvision/pyORBSLAM2) 이렇게 2개를 찾았는데 후자는 먼저 해 본 결과 실행이 되지 않는다.(후자때매 시간을 많이 날려먹었다.)
 * 전자는 기본 python만 사용 할 경우SLAM에서 추가로 boost만 설치해주면 실행이 된다.
 * 하지만 난 텐서플로와 keras를 사용해야 됐기 때문에 좀 더 신경쓸 부분이 많았다.
