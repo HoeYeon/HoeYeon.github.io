@@ -2,7 +2,7 @@
 layout: post
 title:  "ORB SLAM in Indoor navigation"
 date:   2018-07-01
-excerpt: "import map saving & get user trajectory"
+excerpt: "Develop indoor navigation"
 project: true
 tag:
 - ORB SLAM
@@ -52,7 +52,7 @@ comments: false
 * 만든 SLAM을 더 좋게 발전시켜서 안정적인 Indoor Navigation을 만들어보자 ***(to be continued..)***
 
 ---
-`추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
+## `추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
 ---
 # ORB SLAM python binding 
 
@@ -63,7 +63,7 @@ comments: false
 * 그 전에 만들었던 Place Recognition과 연구실에서 개발중인 프로그램은 python으로 만든데 반해 ORB SLAM은 C++로 되어있어 같이 실행시키는게 불가능했다. 그러던 중 구글링을 통해 ORB SLAM의 python 버전이 깃허브에 있는걸 발견하고 한번 도전해보았다.
 
 
-### `ORB SLAM2 PythonBinding`
+## `ORB SLAM2 PythonBinding`
 * [이 곳](https://github.com/jskinn/ORB_SLAM2-PythonBindings)과 [이 곳](https://github.com/torrvision/pyORBSLAM2) 이렇게 2개를 찾았는데 후자는 먼저 해 본 결과 실행이 되지 않는다.(후자때매 시간을 많이 날려먹었다.)
 * 전자는 기본 python만 사용 할 경우SLAM에서 추가로 boost만 설치해주면 실행이 된다.
 * 하지만 난 텐서플로와 keras를 사용해야 됐기 때문에 좀 더 신경쓸 부분이 많았다.
@@ -81,6 +81,6 @@ comments: false
 <b> <center> 미리 제공되는 데이터셋과 Yolo를 함께 돌려보았다.</center> </b>
 
 ## 느낀점
-* 한 달 동안 환경세팅만 하면서 이렇다 할 성과가 없다보니 좌절도 많이했다. 그래서 그런가 Yolo와 함께 돌아가는 모습을 봤을 때 이렇게 성취감을 크게 느꼈던 적이 또 언제였나 싶기도 하다.
+* 한 달 동안 환경세팅만 하면서 이렇다 할 성과가 없다보니 좌절도 많이했다. 그래서 그런지 Yolo와 SLAM이 함께 돌아가는 모습을 봤을 때 이렇게 성취감을 크게 느꼈던 적이 또 언제였나 싶기도 했다.
 
 * 다음 번에는 Yolo를 활용하여 SLAM에 정확도를 높여보고자 한다.
