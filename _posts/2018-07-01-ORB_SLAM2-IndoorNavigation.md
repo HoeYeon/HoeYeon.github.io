@@ -54,7 +54,7 @@ comments: false
 ---
 ## `추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
 ---
-# ORB SLAM python binding 
+# ORB SLAM python binding
 
 ## 개요
 * ORB SLAM을 python 환경에서 실행해보고 동시에 yolo와 같이 실행시켜 보았다.
@@ -82,5 +82,3 @@ comments: false
 
 ## 느낀점
 * 한 달 동안 환경세팅만 하면서 이렇다 할 성과가 없다보니 좌절도 많이했다. 그래서 그런지 Yolo와 SLAM이 함께 돌아가는 모습을 봤을 때 이렇게 성취감을 크게 느꼈던 적이 또 언제였나 싶기도 했다.
-
-* 다음 번에는 Yolo를 활용하여 SLAM에 정확도를 높여보고자 한다.
