@@ -29,7 +29,7 @@ kitti만큼은 아니지만 어느정도 구분이 가능하다.
 하지만 사진이 저렇게 바뀐 상태에서 detection이 제대로 작동할리가 없었다.
 
 ![1](https://user-images.githubusercontent.com/35250791/53892039-e4294180-406e-11e9-9f2c-01d723033ce6.PNG)
-그래서 생각해낸 방법이 detection을 먼저 돌린 뒤 박스를 그리지않고 박스의 좌표들만 가지고 있도록 했다. 그 다음에 이미지를 diparity map으로 변환을 시키고 그 위에 가지고 있는 박스의 좌표로 그려넣어 보았다.
+그래서 생각해낸 방법이 위와 같은 방법이다. detection을 먼저 돌린 뒤 박스를 그리지않고 박스의 좌표들만 가지고 있도록 했고 이미지를 diparity map으로 변환을 시킨 뒤 그 위에 가지고 있는 박스의 좌표로 그려넣어 보았다.
 ![kitti_box](https://user-images.githubusercontent.com/35250791/53892269-51d56d80-406f-11e9-8d08-e61288191a5b.png)
 
 ![local_box](https://user-images.githubusercontent.com/35250791/53892672-12f3e780-4070-11e9-8436-5886f8354f12.png)
