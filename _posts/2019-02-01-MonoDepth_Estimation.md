@@ -3,6 +3,7 @@ layout: post
 title:  "MonoDepth_Estimation"
 date:   2019-02-01
 excerpt: "Estimate obeject'depth using mono camera"
+project: true
 tag:
 - depth
 - deep_learning
