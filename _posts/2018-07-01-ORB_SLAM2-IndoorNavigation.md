@@ -52,7 +52,6 @@ comments: false
 * 만든 SLAM을 더 좋게 발전시켜서 안정적인 Indoor Navigation을 만들어보자 ***(to be continued..)***
 
 ---
-## `추가되는 내용을 여기에 이어서 계속 업데이트 할 예정이다.`
 ---
 # ORB SLAM python binding
 
