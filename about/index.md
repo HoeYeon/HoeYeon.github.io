@@ -5,16 +5,18 @@ tags: [about, HoeYeon]
 date: 2016-03-21
 comments: false
 ---
-    
+
 <center>안녕하세요. 인하대학교에 재학중인 손회연입니다.  <br>
     현재 저는 <strong> Computer Vision, Deep Learning, Machine Learning</strong> 분야에 관심이 많습니다.</center>
-    
-## Education
+
+## Experience
 * <strong>Inha University   Incheon,South Korea</strong> <br>
   Junior Year of College of Computer Science<br>
   Bachelor of Computer Science <strong>Expected (02.2020)</strong>
 * <strong>Intelligence Technology Research Laboratory, Inha Univ </strong><br>
-  Research Intern (Advisor: prof.Phill Kyu Rhee)   July 2018 - present  
+  Research Intern (Advisor: prof.Phill Kyu Rhee)   July 2018 - April 2019
+* <strong> SK C&C Digital GTM2 </strong> <br>
+  Software Engineer as Intern July 2019 - August 2019
 
 ## Skills & Activities
 * <strong> Programming Languages </strong> : High(C/C++,Python), Intermediate(Java,Html,CSS)
