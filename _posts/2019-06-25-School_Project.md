@@ -32,21 +32,26 @@ comments: false
 이 외에도 시간표가 만들어졌을때 어떤 시간표가 더 좋은 시간표인지 가중치 부여하는 작업을 진행했다.
 ### 실제 구현화면
 ![1](https://user-images.githubusercontent.com/35250791/65836053-f3345180-e328-11e9-931b-8fe856efd23d.png)
-<center>처음 시작화면 </center><br>
-
+<center>처음 시작화면 </center>
+<br>
+<br>
 ![2](https://user-images.githubusercontent.com/35250791/65836085-72c22080-e329-11e9-8ecc-a2ae072fac8d.JPG)
-<center>필터 설정 값 입력 </center><br>
-
+<center>필터 설정 값 입력 </center>
+<br>
+<br>
 ![3](https://user-images.githubusercontent.com/35250791/65836106-a735dc80-e329-11e9-92c5-9e8a16eb008e.JPG)
-<center>필터 세부설정 </center><br>
-
+<center>필터 세부설정 </center>
+<br>
+<br>
 ![4](https://user-images.githubusercontent.com/35250791/65836124-efed9580-e329-11e9-8b03-2d5e7c215990.JPG)
 <center>결과화면 </center>
-<center>(계산된 가중치로 비교했을 때 가장 좋은시간표) </center><br>
-
+<center>(계산된 가중치로 비교했을 때 가장 좋은시간표) </center>
+<br>
+<br>
 ![5](https://user-images.githubusercontent.com/35250791/65836158-21666100-e32a-11e9-9471-13ab98d5f929.JPG)
-<center>가중치 내림차순 top 20 시간표 </center><br>
-
+<center>가중치 내림차순 top 20 시간표 </center>
+<br>
+<br>
 ### 후기
 어떻게 보면 사소한거지만 내가 직접 겪은 불편한 점을 조금이나마 개선했다는 점에 대해 만족하고 있다.(막 학기라 내가 쓸일은 없을 것 같다..)<br>
 현재는 데이터 로드할 때 컴퓨터에서 저장된 csv파일을 불러오는 방식으로 작동되는데 이 부분을 좀 개선하고 싶다. 비록 내가 앞으로 이 프로그램을 쓸 일이 있을지 모르겠지만 좀 더 개선시켜서 학교 사람들에게 공유해주고 싶다.
